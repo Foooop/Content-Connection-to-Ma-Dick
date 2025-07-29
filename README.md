@@ -3,7 +3,7 @@ Tampermonkey script for auto-unpause, auto-advance, and playback speed in weird 
 
 Complete and utter dogshit rinky-dink script made entirely by ChatGPT
 
-Keybinds:
-]: Increase speed
-[: Decrease speed
-u: Toggle auto-unpause
+Keybinds:  
+]: Increase speed  
+[: Decrease speed  
+u: Toggle auto-unpause  
